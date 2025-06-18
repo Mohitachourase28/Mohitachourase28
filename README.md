@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohita Chourase
 
-<!--
-**Mohitachourase28/Mohitachourase28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech (Computer Science) student  
+💻 Frontend & Full-Stack Developer (React • MERN)  
+🚀 Passionate about building real-world, impactful web apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Tech Stack
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frontend:** React, Tailwind CSS, Vite
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase Firestore
+- **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+## 🧠 Notable Projects
+
+- 🎟️ [**Ticket App**](https://ticket--app.web.app/)  
+  Role-based support system with Firebase Auth & Firestore  
+  [`Code`](https://github.com/Mohitachourase28/ticket_app.git)
+
+- 🎯 [**CrowdCatch**](https://github.com/Mohitachourase28/crowdcatch)  
+  Full-stack event management platform (Vite + MongoDB)
+
+- 🌐 [**Portfolio Website**](https://portfolio-6vis.vercel.app/)  
+  Clean, responsive personal site built with React + Tailwind  
+  [`Code`](https://github.com/Mohitachourase28/Portfolio-)
+
+---
+
+## 🌱 Currently Learning
+
+- System Design basics  
+- Real-world open-source contribution  
+- Internship applications + startup involvement
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohita-chourase/)  
+- 🐦 [Twitter](https://twitter.com/mohitachourase28)  
+- 📫 Reach me: mohita.chourase28@gmail.com
+
+---
+
+> “I’m not here just to build projects — I’m here to build value.”
