@@ -23,7 +23,7 @@
   [`Code`](https://github.com/Mohitachourase28/ticket_app.git)
 
 - 🎯 [**CrowdCatch**](https://github.com/Mohitachourase28/crowdcatch)  
-  Full-stack event management platform (Vite + MongoDB)
+  Full-stack event management platform (Vite + MongoDB) 
   [`Code`](https://github.com/Mohitachourase28/crowdcatch.git)
 
 - 🌐 [**Portfolio Website**](https://portfolio-6vis.vercel.app/)  
