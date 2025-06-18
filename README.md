@@ -24,6 +24,7 @@
 
 - 🎯 [**CrowdCatch**](https://github.com/Mohitachourase28/crowdcatch)  
   Full-stack event management platform (Vite + MongoDB)
+  [`Code`](https://github.com/Mohitachourase28/crowdcatch.git)
 
 - 🌐 [**Portfolio Website**](https://portfolio-6vis.vercel.app/)  
   Clean, responsive personal site built with React + Tailwind  
