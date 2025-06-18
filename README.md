@@ -22,9 +22,8 @@
   Role-based support system with Firebase Auth & Firestore  
   [`Code`](https://github.com/Mohitachourase28/ticket_app.git)
 
-- 🎯 [**CrowdCatch**]  
+- 🎯 [**CrowdCatch**](https://github.com/Mohitachourase28/crowdcatch.git)
   Full-stack event management platform (Vite + MongoDB) 
-  [`Code`](https://github.com/Mohitachourase28/crowdcatch.git)
 
 - 🌐 [**Portfolio Website**](https://portfolio-6vis.vercel.app/)  
   Clean, responsive personal site built with React + Tailwind  
