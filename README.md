@@ -44,7 +44,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohita-chourase/)  
 - 🐦 [Twitter](https://twitter.com/mohitachourase28)  
-- 📫 Reach me: mohita.chourase28@gmail.com
+- 📫 Reach me: mohitachourase03@gmail.com
 
 ---
 
